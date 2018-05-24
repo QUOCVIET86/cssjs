@@ -1,5 +1,5 @@
 
-	var url_popup = 'http://quanaosiletanbinh.blogspot.comS';
+	var url_popup = 'https://quanaosiletanbinh.blogspot.com';
 
       //<![CDATA[
 	  // var url_ppp = 'http://bit.ly/1KmPNYe';
